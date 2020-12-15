@@ -3,4 +3,6 @@
  https://faetonoffproject.s-ul.eu/ded/gsWTf133 
 
 https://faetonoffproject.s-ul.eu/ded/EUCC8gVE
-https://github.com/{faetonoff}/{bruh- osu! skins which i use.}/raw/{bruh}/{C:\Users\Home\AppData\Local\osu!\Screenshots}/screenshot033
+
+-
+ / https://github.com/{faetonoff}/{bruh- osu! skins which i use.}/raw/{bruh}/{C:\Users\Home\AppData\Local\osu!\Screenshots}/screenshot033
